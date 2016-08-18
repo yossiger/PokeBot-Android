@@ -21,3 +21,9 @@ Maybe have a bugs. Please create issue.
 - [x] Egg Hatching Automatically
 - [x] Power-Up pokemon
 
+#Warnings and TIPS
+* Don't select spawn point of outside the country. 
+* Don't play PokémonGO, while Pokébot is active. 
+* Mark to spawn point as most-visited places for more XP.
+* !!! If driving car, use Pokébot. If walking, play PokémonGO.
+* !!! If you are doing something important, use Pokébot. 
