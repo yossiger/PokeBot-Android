@@ -2,7 +2,10 @@
 
 Maybe have a bugs. Please create issue.
 
-#Features
+##Download
+<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.0/PokeBot.v1.0.0.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
+
+##Features
 - [x] Background work
 - [x] Low battary usage
 - [x] Anti-ban algorithm
@@ -21,7 +24,7 @@ Maybe have a bugs. Please create issue.
 - [x] Egg Hatching Automatically
 - [x] Power-Up pokemon
 
-#Warnings and TIPS
+##Warnings and TIPS
 * Don't select spawn point of outside the country. 
 * Don't play PokémonGO, while Pokébot is active. 
 * Mark to spawn point as most-visited places for more XP.
