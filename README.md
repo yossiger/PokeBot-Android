@@ -1,4 +1,7 @@
 # PokeBot Android Version 1.0.0
+
+Maybe have a bugs. Please create issue.
+
 Features
 - [x] Background work
 - [x] Low battary usage
@@ -17,3 +20,4 @@ Features
 - [x] Use lucky egg while evolve
 - [x] Egg Hatching Automatically
 - [x] Power-Up pokemon
+
