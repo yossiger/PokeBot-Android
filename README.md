@@ -1,3 +1,5 @@
+###HAVE A LITTLE PROBLEM, WE WORKING ON THIS!
+
 # PokeBot Android Version 1.0.0
 
 Maybe have a bugs. Please create issue.
