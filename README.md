@@ -2,7 +2,7 @@
 
 Maybe have a bugs. Please create issue.
 
-Features
+#Features
 - [x] Background work
 - [x] Low battary usage
 - [x] Anti-ban algorithm
