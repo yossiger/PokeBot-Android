@@ -1,5 +1,5 @@
 ###HAVE A LITTLE PROBLEM, WE WORKING ON THIS!
-<b>Update Status : </b>
+<b>Development Status : </b>
 * 19.08.2016 05:00 GMT : We are changing PokeBot api.
 
 # PokeBot Android Version 1.0.0
