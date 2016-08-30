@@ -1,14 +1,14 @@
-###HAVE A LITTLE PROBLEM, WE WORKING ON THIS!
-<b>Development Status : </b>
-* 19.08.2016 05:00 GMT : We are changing PokeBot api.
-* 26.08.2016 10:20 GMT : Sorry for late update everyone. Our a little team. We changed fully every functions. It will ready in 2 days. 
+# PokeBot Android Version 1.0.1
 
-# PokeBot Android Version 1.0.0
+<h3>Version changes (08/30/2016 17:26):</h3>
 
-Maybe have a bugs. Please create issue.
+* API fully changed
+* Auto re-connect function added
+* AutoUpdate / VersionCheck updated
+* Small bugs were fixed
 
 ##Download
-<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.0/PokeBot.v1.0.0.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
+<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.1/PokeBot.v1.0.1.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
 
 
 
