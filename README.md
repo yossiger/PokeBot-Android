@@ -1,17 +1,17 @@
-# PokeBot Android Version 1.0.1
+# PokeBot Android Version 1.0.2
 [![Github All Releases](https://img.shields.io/github/downloads/PokeBotPub/PokeBot-Android/total.svg)](https://github.com/PokeBotPub/PokeBot-Android/releases)
 ##Download
-<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.1/PokeBot.v1.0.1.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
+<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.2/PokeBot.v1.0.2.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
 
-<h3>Version changes (08/30/2016 17:26):</h3>
+<h3>Version changes (08/30/2016 20:38 GMT+2):</h3>
 
+* API fully changed
+
+<h3>Change logs:</h3>
 * API fully changed
 * Auto re-connect function added
 * AutoUpdate / VersionCheck updated
 * Small bugs were fixed
-
-
-
 
 
 ##Features
