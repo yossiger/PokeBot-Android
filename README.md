@@ -1,5 +1,8 @@
 # PokeBot Android Version 1.0.1
 
+##Download
+<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.1/PokeBot.v1.0.1.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
+
 <h3>Version changes (08/30/2016 17:26):</h3>
 
 * API fully changed
@@ -7,8 +10,6 @@
 * AutoUpdate / VersionCheck updated
 * Small bugs were fixed
 
-##Download
-<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.1/PokeBot.v1.0.1.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
 
 
 
