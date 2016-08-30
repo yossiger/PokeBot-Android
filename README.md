@@ -5,7 +5,9 @@
 
 <h3>Version changes (08/30/2016 20:38 GMT+2):</h3>
 
-* API fully changed
+* Fixed few bugs
+
+Note : Sometimes give a problem on communications. We are working on.
 
 <h3>Change logs:</h3>
 * API fully changed
