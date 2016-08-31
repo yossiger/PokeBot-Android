@@ -51,6 +51,7 @@ v1.0.1
 - [x] Power-Up pokemon
 - [x] Using Google Maps Determine the Route API!
 - [x] Show current position on Map
+
 ##Warnings and TIPS
 * Don't select spawn point of outside the country. 
 * Don't play PokémonGO, while Pokébot is active. 
