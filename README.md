@@ -15,6 +15,12 @@
 Note : Sometimes give a problem on communications. We are working on.
 
 <h3>Change logs:</h3>
+v1.0.3
+* Fixed map issues, crashes
+* Fixed login issues
+* Fixed found and catch pokemon function
+* Added map for see current player position
+* Changed navigation function. Now using google maps determine the route API! Now more like human.
 
 v1.0.2
 * Small bugs were fixed
