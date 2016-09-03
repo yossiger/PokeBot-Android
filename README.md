@@ -1,14 +1,17 @@
-# PokeBot Android Version 1.0.8
+# PokeBot Android Version 1.0.9
 [![Github All Releases](https://img.shields.io/github/downloads/PokeBotPub/PokeBot-Android/total.svg)](https://github.com/PokeBotPub/PokeBot-Android/releases)
 ##Download
-<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.8/PokeBot.v1.0.8.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
+<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.9/PokeBot.v1.0.9.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
 
-<h3>Version changes (09/02/2016 16:00 GMT+2):</h3>
+<h3>Version changes (09/03/2016 12:00 GMT+2):</h3>
 * Fixed crash issues
 
 Note : Sometimes give a problem on communications. We are working on.
 
 <h3>Change logs:</h3>
+v1.0.8
+* Fixed crash issues
+
 v1.0.7
 * Fixed login issues
 * Fixed statistics issues
