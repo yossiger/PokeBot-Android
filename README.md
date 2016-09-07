@@ -8,6 +8,9 @@
 
 Note : Sometimes give a problem on communications. We are working on.
 
+##DONATE
+Bitcoin Donate : 14RotU1c4KQmSjDMZ1vtrqBVZwkoZAVzKv
+
 <h3>Change logs:</h3>
 v1.0.9
 * Fixed crash issues
