@@ -1,10 +1,13 @@
-# PokeBot Android Version 1.0.10
+# PokeBot Android Version 1.0.11
 [![Github All Releases](https://img.shields.io/github/downloads/PokeBotPub/PokeBot-Android/total.svg)](https://github.com/PokeBotPub/PokeBot-Android/releases)
 ##Download
-<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.10/PokeBot.v1.0.10.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
+<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.11/PokeBot.v1.0.11.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
 
-<h3>Version changes (09/07/2016 06:27 GMT+2):</h3>
-* Added advanced settings feature
+<h3>Version changes (09/10/2016 04:11 GMT+2):</h3>
+
+* Added Item Bag (UI design is temporary, Pokebag is next release - Issue#29) 
+* Fixed Issue#27 "auto evolve pokemon button bug alway yes"
+* Fixed Keep Min. Duplicated Pokemon count.
 
 Note : Sometimes give a problem on communications. We are working on.
 
@@ -12,6 +15,9 @@ Note : Sometimes give a problem on communications. We are working on.
 Bitcoin Donate : 14RotU1c4KQmSjDMZ1vtrqBVZwkoZAVzKv
 
 <h3>Change logs:</h3>
+v1.0.10
+* Added advanced settings feature
+
 v1.0.9
 * Fixed crash issues
 
