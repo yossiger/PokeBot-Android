@@ -86,6 +86,8 @@ v1.0.1
 - [x] Power-Up pokemon
 - [x] Using Google Maps Determine the Route API!
 - [x] Show current position on Map
+- [x] Advanced Settings
+- [ ] Load - Save - Share Settings Module in Development
 
 ##Warnings and TIPS
 * Don't select spawn point of outside the country. 
