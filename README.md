@@ -9,6 +9,9 @@
 
 Note : Sometimes give a problem on communications. We are working on.
 
+##WE NEED TRANSLATORS
+We hard working make the best android bot for your. Now we need translators. IF you want to help us, you can use <a href="https://github.com/PokeBotPub/PokeBot-Android/blob/master/forTranslators.xml">forTranslators.xml</a>. After send to pokebot@inbox.ru mail address. 
+
 ##DONATE
 Bitcoin Donate : 14RotU1c4KQmSjDMZ1vtrqBVZwkoZAVzKv
 
