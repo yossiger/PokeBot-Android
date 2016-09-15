@@ -1,11 +1,14 @@
 # PokeBot Android Version 1.0.12
 [![Github All Releases](https://img.shields.io/github/downloads/PokeBotPub/PokeBot-Android/total.svg)](https://github.com/PokeBotPub/PokeBot-Android/releases)
 ##Download
-<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.12/PokeBot.v1.0.12.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
+<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.13/PokeBot.v1.0.13.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
 
-<h3>Version changes (09/10/2016 07:14 GMT+2):</h3>
+<h3>Version changes (09/15/2016 05:00 GMT+2):</h3>
 
-* Fixed crash bug
+* Added Setting Management feature. You can save-load-share settings.
+* Fixed Transfer Pokemon bug.
+* Fixed crash bugs.
+* Added multi-language : German (Thx. Marcel), Crotian (Thx. Rogi), Turkish (Thx. Oguz)
 
 Note : Sometimes give a problem on communications. We are working on.
 
@@ -16,6 +19,9 @@ We hard working make the best android bot for your. Now we need translators. IF 
 Bitcoin Donate : 14RotU1c4KQmSjDMZ1vtrqBVZwkoZAVzKv
 
 <h3>Change logs:</h3>
+v1.0.12
+* Fixed crash bugs.
+ 
 v1.0.11
 * Added Item Bag (UI design is temporary, Pokebag is next release - Issue#29) 
 * Fixed Issue#27 "auto evolve pokemon button bug alway yes"
