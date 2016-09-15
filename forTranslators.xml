@@ -121,6 +121,7 @@
     <string name="item_recycle_desc">Inventory item limits and recycle settings</string>
     <string name="misc_settings">MISC SETTINGS</string>
     <string name="misc_settings_desc">Use Lucky egg, incense etc...</string>
+
     <string name="reset_all_settings">RESET ALL SETTINGS</string>
     <string name="reset_all_settings_desc">Load default pokebot settings</string>
     <string name="are_you_sure_reset_all_settings">Are you sure reset all settings?</string>
@@ -169,5 +170,36 @@
     <string name="_EventProfileLogin">Playing as %1$s </string> <!-- %1$s -> PLAYER NAME -->
     <string name="_FailedLogin">Can\'t connect to Niantic Server.</string>
     <string name="_StartingFarming">Starting farming... </string>
-    <string name="info_text"><![CDATA[<br><br>Website : http://pokebot.pub<br>Github : https://github.com/PokeBotPub/PokeBot-Android<!-- <br>Special thanks for translate : TRANSLATOR_INFO -->]]></string>
+    <string name="info_text"><![CDATA[<br><br>Website : http://pokebot.pub<br>Github : https://github.com/PokeBotPub/PokeBot-Android<br><b>ATTENTION :</b> You should Pokebot only download from this sources. <!-- <br>Special thanks for translate : TRANSLATOR_INFO -->]]></string>
+        
+        
+    <!-- ADDED VERSION 1.0.13 -->
+
+    <string name="saved_settings">SAVED SETTINGS</string>
+    <string name="save_current_settings">SAVE CURRENT SETTINGS</string>
+    <string name="import_external_settings">IMPORT EXTERNAL SETTINGS</string>
+    <string name="please_enter_descriptive_name">Please enter descriptive name for current setting.</string>
+    <string name="share_id">Share ID</string>
+    <string name="setting_name">Setting Name</string>
+    <string name="_import">IMPORT</string>
+    <string name="please_enter_valid_share_id">Please enter valid Share ID.</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ok">OK</string>
+    <string name="pokebot_server_error">Pokébot server have a problem. We working on it.</string>
+    <string name="new_setting_imported">New setting is imported.</string>
+    <string name="subject_share_setting">My PokéBot Setting</string>
+    <string name="not_found_setting">Not found setting with identified SHARE_ID.</string>
+    <string name="you_cant_delete_default_setting">You can\'t delete default setting.</string>
+    <string name="message_share_setting">Hello, My PokeBot share id : SHARE_ID. If you don\'t have PokeBot, you can download from this website. http://pokebot.pub</string>
+    <string name="are_you_sure_delete_this_setting">Are you sure DELETE setting named of SETTING_NAME (#SETTING_ID)?</string>
+    <string name="deleted_setting">DELETED setting name of SETTING_NAME (#SETTING_ID)!</string>
+    <string name="loaded_setting">LOADED setting name of SETTING_NAME (#SETTING_ID)!</string>
+    <string name="cant_load_setting">CAN\'T LOAD setting name of SETTING_NAME (#SETTING_ID), probably have a problem on database. Contact to developer.</string>
+    <string name="are_you_sure_load_this_setting">Are you sure LOAD name of SETTING_NAME (#SETTING_ID) setting?</string>
+    <string name="remove">REMOVE</string>
+    <string name="share">SHARE</string>
+    <string name="load">LOAD</string>
+    <string name="setting_management">SETTINGS MANAGEMENT</string>
+    <string name="setting_management_desc">You can load saved settings, share and anymore...</string>
+
 </resources>
