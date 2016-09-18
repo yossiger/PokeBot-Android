@@ -5,7 +5,6 @@
 
 <h3>Version changes (09/18/2016 10:52 GMT+2):</h3>
 
-
 * Fixed Transfer Pokemon bug.
 * Fixed crash bugs.
 * Added IV value on pokemon capture strings
