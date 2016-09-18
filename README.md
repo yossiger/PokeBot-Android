@@ -1,10 +1,11 @@
-# PokeBot Android Version 1.0.14
+# PokeBot Android Version 1.0.15
 [![Github All Releases](https://img.shields.io/github/downloads/PokeBotPub/PokeBot-Android/total.svg)](https://github.com/PokeBotPub/PokeBot-Android/releases)
 ##Download
-<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.14/PokeBot.v1.0.14.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
+<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.15/PokeBot.v1.0.15.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
 
-<h3>Version changes (09/18/2016 10:52 GMT+2):</h3>
+<h3>Version changes (09/18/2016 11:32 GMT+2):</h3>
 
+* Fixed settings bug.
 * Fixed Transfer Pokemon bug.
 * Fixed crash bugs.
 * Added IV value on pokemon capture strings
@@ -19,6 +20,13 @@ We hard working make the best android bot for your. Now we need translators. IF 
 Bitcoin Donate : 14RotU1c4KQmSjDMZ1vtrqBVZwkoZAVzKv
 
 <h3>Change logs:</h3>
+v1.0.14
+
+* Fixed Transfer Pokemon bug.
+* Fixed crash bugs.
+* Added IV value on pokemon capture strings
+* Added multi-language : Taiwan Chinese (Thx. nnttd by APK.TW), Portuguese (Thx. WicCaesar), Malay (Thx. AZZREY NAZARETH), Japanese (Thx. niwa), Italian (Thx. Marco), Croatian (Thx. Rogi_hr), Spanish (Thx. Yairmon), German (Thx. Marcell), Turkish (Thx. Oguz)
+
 v1.0.13
 * Added Setting Management feature. You can save-load-share settings.
 * Fixed Transfer Pokemon bug.
