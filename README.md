@@ -1,4 +1,4 @@
-# PokeBot Android Version 1.0.17
+# PokeBot Android Version 1.0.18
 [![Github All Releases](https://img.shields.io/github/downloads/PokeBotPub/PokeBot-Android/total.svg)](https://github.com/PokeBotPub/PokeBot-Android/releases)
 ##Download
 <a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.18/PokeBot.v1.0.18.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
