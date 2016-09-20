@@ -1,15 +1,11 @@
-# PokeBot Android Version 1.0.16
+# PokeBot Android Version 1.0.17
 [![Github All Releases](https://img.shields.io/github/downloads/PokeBotPub/PokeBot-Android/total.svg)](https://github.com/PokeBotPub/PokeBot-Android/releases)
 ##Download
-<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.16/PokeBot.v1.0.16.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
+<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.17/PokeBot.v1.0.17.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
 
-<h3>Version changes (09/20/2016 19:51 GMT+2):</h3>
+<h3>Version changes (09/20/2016 21:39 GMT+2):</h3>
 
-* Added Yandex MAP API! (In beta)
-* Google map api deleted. (Xiaomi and few devices crash and not found solution)
-* Added French language (Thx. Sioxox and Théo, Alias ShuterFox)
-* Transfer pokemon list bugs fixed.
-* Changed catch pokemon algorithm. (Its look better)
+* Fixed bugs and crashes
 
 Note : Sometimes give a problem on communications. We are working on.
 
@@ -20,6 +16,14 @@ We hard working make the best android bot for your. Now we need translators. IF 
 Bitcoin Donate : 14RotU1c4KQmSjDMZ1vtrqBVZwkoZAVzKv
 
 <h3>Change logs:</h3>
+v1.0.16
+
+* Added Yandex MAP API! (In beta)
+* Google map api deleted. (Xiaomi and few devices crash and not found solution)
+* Added French language (Thx. Sioxox and Théo, Alias ShuterFox)
+* Transfer pokemon list bugs fixed.
+* Changed catch pokemon algorithm. (Its look better)
+
 v1.0.15
 
 * Fixed settings bug.
