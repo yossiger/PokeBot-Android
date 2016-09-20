@@ -1,11 +1,11 @@
 # PokeBot Android Version 1.0.17
 [![Github All Releases](https://img.shields.io/github/downloads/PokeBotPub/PokeBot-Android/total.svg)](https://github.com/PokeBotPub/PokeBot-Android/releases)
 ##Download
-<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.17/PokeBot.v1.0.17.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
+<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.18/PokeBot.v1.0.18.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
 
-<h3>Version changes (09/20/2016 21:39 GMT+2):</h3>
+<h3>Version changes (09/21/2016 00:30 GMT+2):</h3>
 
-* Fixed bugs and crashes
+* Fixed player map marker
 
 Note : Sometimes give a problem on communications. We are working on.
 
@@ -16,6 +16,10 @@ We hard working make the best android bot for your. Now we need translators. IF 
 Bitcoin Donate : 14RotU1c4KQmSjDMZ1vtrqBVZwkoZAVzKv
 
 <h3>Change logs:</h3>
+v1.0.17
+
+* Fixed bugs and crashes
+
 v1.0.16
 
 * Added Yandex MAP API! (In beta)
