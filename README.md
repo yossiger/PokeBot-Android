@@ -9,6 +9,13 @@
 
 Note : Sometimes give a problem on communications. We are working on.
 
+##Notice<
+Hello everyone,
+We have an important job in real life in last 1 week.
+Maybe new updates can take long time.   
+But we have good ideas for next updates. Stay follow us. :)
+- Pokebot Team
+
 ##WE NEED TRANSLATORS
 We hard working make the best android bot for your. Now we need translators. IF you want to help us, you can use <a href="https://github.com/PokeBotPub/PokeBot-Android/blob/master/forTranslators.xml">forTranslators.xml</a>. After send to pokebot@inbox.ru mail address. 
 
