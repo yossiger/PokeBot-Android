@@ -9,7 +9,7 @@
 
 Note : Sometimes give a problem on communications. We are working on.
 
-##Notice<
+##Notice
 Hello everyone,
 We have an important job in real life in last 1 week.
 Maybe new updates can take long time.   
