@@ -1,4 +1,14 @@
 # PokeBot Android Version 1.0.18
+
+
+##Notice 
+Hello everyone,
+We still working on new version. We really very busy in real life.
+PokemonGO is shutdown 0.35 api support. 
+All bots and scanners down.
+We will find new way for bots. Stay follow us. :)
+- Pokebot Team
+
 [![Github All Releases](https://img.shields.io/github/downloads/PokeBotPub/PokeBot-Android/total.svg)](https://github.com/PokeBotPub/PokeBot-Android/releases)
 ##Download
 <a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.18/PokeBot.v1.0.18.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
@@ -9,12 +19,6 @@
 
 Note : Sometimes give a problem on communications. We are working on.
 
-##Notice
-Hello everyone,
-We have an important job in real life in last 1 week.
-Maybe new updates can take long time.   
-But we have good ideas for next updates. Stay follow us. :)
-- Pokebot Team
 
 ##WE NEED TRANSLATORS
 We hard working make the best android bot for your. Now we need translators. IF you want to help us, you can use <a href="https://github.com/PokeBotPub/PokeBot-Android/blob/master/forTranslators.xml">forTranslators.xml</a>. After send to pokebot@inbox.ru mail address. 
