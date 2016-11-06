@@ -3,10 +3,7 @@
 
 ##Notice 
 Hello everyone,
-We still working on new version. We really very busy in real life.
-PokemonGO is shutdown 0.35 api support. 
-All bots and scanners down.
-We will find new way for bots. Stay follow us. :)
+We will release new version in few days :)
 - Pokebot Team
 
 [![Github All Releases](https://img.shields.io/github/downloads/PokeBotPub/PokeBot-Android/total.svg)](https://github.com/PokeBotPub/PokeBot-Android/releases)
