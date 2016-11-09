@@ -1,18 +1,21 @@
-# PokeBot Android Version 1.0.18
+# PokeBot Android Version 1.0.19
 
-
-##Notice 
-Hello everyone,
-We will release new version in few days :)
-- Pokebot Team
 
 [![Github All Releases](https://img.shields.io/github/downloads/PokeBotPub/PokeBot-Android/total.svg)](https://github.com/PokeBotPub/PokeBot-Android/releases)
 ##Download
-<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.18/PokeBot.v1.0.18.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
+<a href="https://github.com/PokeBotPub/PokeBot-Android/releases/download/1.0.19/PokeBot.v1.0.19.apk">![Download Now](https://raw.githubusercontent.com/PokeBotPub/PokeBot-Android/f5f70e973818974e5e83335a73589cc965d03227/Download-Button.png "Download Now")</a>
 
-<h3>Version changes (09/21/2016 00:30 GMT+2):</h3>
 
-* Fixed player map marker
+##DONATE
+Donate & Get Auto Solve Code : https://play.google.com/store/apps/details?id=com.donateus
+Bitcoin Donate : 14RotU1c4KQmSjDMZ1vtrqBVZwkoZAVzKv
+
+<h3>Version changes (11/09/2016 00:30 GMT+2):</h3>
+
+* Fixed API
+* Added captcha module
+* Added "If pokestop not found, random walking" (Powered with Foursquare API)
+
 
 Note : Sometimes give a problem on communications. We are working on.
 
@@ -20,10 +23,12 @@ Note : Sometimes give a problem on communications. We are working on.
 ##WE NEED TRANSLATORS
 We hard working make the best android bot for your. Now we need translators. IF you want to help us, you can use <a href="https://github.com/PokeBotPub/PokeBot-Android/blob/master/forTranslators.xml">forTranslators.xml</a>. After send to pokebot@inbox.ru mail address. 
 
-##DONATE
-Bitcoin Donate : 14RotU1c4KQmSjDMZ1vtrqBVZwkoZAVzKv
 
 <h3>Change logs:</h3>
+v1.0.18
+
+* Fixed player map marker
+
 v1.0.17
 
 * Fixed bugs and crashes
