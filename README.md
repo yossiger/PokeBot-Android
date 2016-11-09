@@ -8,6 +8,7 @@
 
 ##DONATE
 Donate & Get Auto Solve Code : https://play.google.com/store/apps/details?id=com.donateus
+
 Bitcoin Donate : 14RotU1c4KQmSjDMZ1vtrqBVZwkoZAVzKv
 
 <h3>Version changes (11/09/2016 00:30 GMT+2):</h3>
