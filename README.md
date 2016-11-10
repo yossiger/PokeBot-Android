@@ -11,6 +11,9 @@ Donate & Get Auto Solve Code : https://play.google.com/store/apps/details?id=com
 
 Bitcoin Donate : 14RotU1c4KQmSjDMZ1vtrqBVZwkoZAVzKv
 
+##DISCORD
+News in Discord channel : https://discord.gg/WcMFfUZ
+
 <h3>Version changes (11/10/2016 01:38 GMT+2):</h3>
 
 * Fixed auto re-connect
