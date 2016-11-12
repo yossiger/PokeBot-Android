@@ -148,9 +148,9 @@
     <string name="_ServerError">可能是Niantic伺服器停機，網路連接失敗或登錄憑據無效</string>
     <string name="_PokemonLevelUp">昇級 %1$s 完成，新的CP %2$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
     <string name="_EventNoPokeballs">沒有寶貝球!無法捕捉 %1$s CP %2$s IV %3$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
-    <string name="_EventCatchAttempt">捕捉 %1$s 失誤 CP %2$s IV %3$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
+    <string name="_EventCatchAttempt">嘗試捕捉 %1$s CP %2$s IV %3$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
     <string name="_EventPokemonCaptureSuccess">成功捕獲 %1$s CP %2$s IV %3$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
-    <string name="_EventPokemonCaptureFlee">神奇寶貝 %1$s 捕捉失誤 CP %2$s IV %3$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
+    <string name="_EventPokemonCaptureFlee">神奇寶貝 %1$s 已消失 CP %2$s IV %3$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
     <string name="_EventPokemonCaptureFailed">捕捉 %1$s 失敗CP %2$s IV %3$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
     <string name="_EventPokemonCaptureMissed">已錯失 %1$s 捕捉機會CP %2$s IV %3$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
     <string name="_EventPokemonCaptureEscape">神奇寶貝 %1$s 已逃跑CP %2$s IV %3$s</string> <!-- %1$s -> POKEMON NAME %2$s -> CP -->
